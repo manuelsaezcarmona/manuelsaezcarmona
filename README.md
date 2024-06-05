@@ -1,9 +1,11 @@
+#  👋 ¡Hola! Soy Manu
+
 <p align="center">
   <a href="https://manuelsaezcarmona.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/manuelsaezcarmona/manuelsaezcarmona/assets/70754764/d3bcec13-d115-401a-ba03-707944a7ca7a" alt="my banner></a>
 </p>
 
 
-#  👋 ¡Hola! Soy Manu
+
 
 Profesionalmente con el corazon partio 💔 entre la informatica y la empresa.
 
