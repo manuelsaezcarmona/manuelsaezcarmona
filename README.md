@@ -53,9 +53,7 @@ Actualmente llevo mas de 3 años de experencia como **desarrollador FrontEnd** e
 
 React, JavaScript, typeScript, node.js, express, jest, vitest, cypress, tailwind, css y conocimientos de Wordpress, woocomerce, moodle y learndash y unas cuantas librerias asociadas (de esas he perdido la cuenta).
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-Y ahora trasteando con Docker, vamos que sin quererlo ni beberlo me encuentro en el **camino de fullStack**.
+Y ahora trasteando con Docker ![Docker](./svg/Docker.svg) , vamos que sin quererlo ni beberlo me encuentro en el **camino de fullStack**.
 
 ## 📈 GitHub Stats
 
