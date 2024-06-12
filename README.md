@@ -11,8 +11,12 @@
 ## 📩 Contacta conmigo
 
 <p align="left" >
-<a  ref="mailto:manuel.saez.carmona@gmail.com?Subject=Te%20he%20visto%20en%20GitHub" target="\_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
-<a href="https://www.linkedin.com/in/manuel-saez-carmona/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+  <a  ref="mailto:manuel.saez.carmona@gmail.com?Subject=Te%20he%20visto%20en%20GitHub" target="\_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45">
+  </a>
+  <a href="https://www.linkedin.com/in/manuel-saez-carmona/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45">
+  </a>
 </p>
 
 Profesionalmente con el corazon partio 💔 entre la **informatica** y la **empresa**.
@@ -53,9 +57,7 @@ Actualmente llevo mas de 3 años de experencia como **desarrollador FrontEnd** e
 
 React, JavaScript, typeScript, node.js, express, jest, vitest, cypress, tailwind, css y conocimientos de Wordpress, woocomerce, moodle y learndash y unas cuantas librerias asociadas (de esas he perdido la cuenta).
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-Y ahora trasteando con Docker, vamos que sin quererlo ni beberlo me encuentro en el **camino de fullStack**.
+Y ahora trasteando con Docker ![Docker](./svg/Docker.svg) , vamos que sin quererlo ni beberlo me encuentro en el **camino de fullStack**.
 
 ## 📈 GitHub Stats
 
@@ -65,41 +67,10 @@ Y ahora trasteando con Docker, vamos que sin quererlo ni beberlo me encuentro en
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelsaezcarmona&layout=compact&locale=es)](https://github.com/manuelsaezcarmona/github-readme-stats)
 
-## Me encantan los memes 😄
+## Me encantan los memes 😄 ![supervinlin](https://git.io/supervinlin)
 
-##
-
-https://github.com/tandpfun/skill-icons
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-https://github.com/marwin1991/profile-technology-icons
-
-![image](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
-
-## Plugins para mi readme que me gustan
-
-https://github.com/brunobritodev/awesome-github-stats
-https://github.com/Envoy-VC/awesome-badges
-https://github.com/J0B10/aoc-badges-action
-https://github.com/MikeCodesDotNET/ColoredBadges
-https://github.com/anuraghazra/github-readme-stats
-https://github.com/marwin1991/profile-technology-icons
-
-https://github.com/marketplace/actions/profile-readme-development-stats
-
-![](https://img.shields.io/badge/day%20📅-22-blue)
-
-**manuelsaezcarmona/manuelsaezcarmona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+| ![pogchamp](https://git.io/pogchamp) | ![youwhy](https://git.io/youwhy) | ![doge](https://git.io/doge) |
+| :----------------------------------: | :------------------------------: | :--------------------------: |
+|       ![](./png/Meme_001.png)        |     ![](./png/Meme_002.png)      |   ![](./png/Meme_003.png)    |
+|       ![](./png/Meme_004.png)        |     ![](./png/Meme_005.png)      |   ![](./png/Meme_006.png)    |
+|       ![](./png/Meme_007.png)        |     ![](./png/Meme_008.png)      |   ![](./png/Meme_009.png)    |
