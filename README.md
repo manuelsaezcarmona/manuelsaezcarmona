@@ -1,3 +1,22 @@
+<style> 
+	li {
+		list-style: none;
+		display: flex;
+		column-gap: 0.5em;
+		align-items: center;
+	}
+	li::before {
+	
+	content: "►";
+	color: blue;
+	display: inline-block;
+	width: 1em;
+	
+	
+}
+	
+</style>
+
 <div>
 	<p align="center">
         <a href="https://manuelsaezcarmona.netlify.app/" target="_blank" rel="noreferrer">
@@ -14,7 +33,7 @@ Empece en el mundo empresarial apoyandome en el desarrollo para avanzar en mi ca
 
 De ahi le cogi el gustillo a:
 
-- <img src="./svg/excel.svg" alt="Excel Icon" style="vertical-align: middle;" /> Excel
+- ![](./svg/excel.svg) Excel
 - Tablas Dinamicas
 - Las bases de datos empezando en "Access" y ..
 - terminando con SQL server
