@@ -1,0 +1,13 @@
+
+<svg  width="24" height="24" viewBox="0 0 100 100"  xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xml:space="preserve">
+ <g class="layer">
+  
+  <g id="svg_32">
+   <path d="m89.69,6.79l-79.39,0c-2.44,0 -4.41,2 -4.41,4.47l0,80.48c0,2.47 1.97,4.47 4.41,4.47l79.39,0c2.43,0 4.41,-2 4.41,-4.47l0,-80.48c0,-2.47 -1.98,-4.47 -4.41,-4.47z" fill="#060" id="svg_31" stroke="#33c481" stroke-width="8.88"/>
+   <path d="m25.33,13.37l0,75.56" fill="none" id="svg_29" stroke="#fff" stroke-linecap="round" stroke-width="3.51"/>
+   <path d="m14.21,25.88l75.05,-0.09" fill="none" id="svg_30" stroke="#fff" stroke-linecap="round" stroke-width="3.81"/>
+   <path d="m54.84,76.56l-3.31,-3.35l-6.62,-6.71l6.62,-6.7l3.31,-3.36m9.92,-11.17l3.31,-3.36l6.61,-6.7l6.62,6.7l3.31,3.36" fill="none" id="svg_28" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.82"/>
+   <path d="m44.58,67.52l29.75,0l0,-31.3" fill="none" id="svg_27" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.82"/>
+  </g>
+ </g>
+</svg>

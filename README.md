@@ -1,22 +1,3 @@
-<style> 
-	li {
-		list-style: none;
-		display: flex;
-		column-gap: 0.5em;
-		align-items: center;
-	}
-	li::before {
-	
-	content: "►";
-	color: blue;
-	display: inline-block;
-	width: 1em;
-	
-	
-}
-	
-</style>
-
 <div>
 	<p align="center">
         <a href="https://manuelsaezcarmona.netlify.app/" target="_blank" rel="noreferrer">
@@ -34,11 +15,27 @@ Empece en el mundo empresarial apoyandome en el desarrollo para avanzar en mi ca
 De ahi le cogi el gustillo a:
 
 - ![](./svg/excel.svg) Excel
-- Tablas Dinamicas
-- Las bases de datos empezando en "Access" y ..
-- terminando con SQL server
-- Los ERPs de todo tipo y sabores
-- Y el analisis de los procesos de Negocios
+- ![](./svg/dinamic_tables.svg) Las Tablas Dinamicas
+- ![](./svg/access.svg) Las bases de datos empezando en "Access" y ..
+- ![](./svg/sql_server.svg) terminando con SQL server
+- ![](./svg/BusinessCentral_scalable.svg) Los ERPs de todo tipo y sabores ![](./svg/unit4.svg)
+- ![](./svg/nav_img.svg) Y el analisis de los procesos de Negocios
+
+|                  |                                                       |
+| :--------------: | :---------------------------------------------------: |
+| Tablas Dinamicas |                 ![](./svg/excel.svg)                  |
+|  `activitypub`   |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
+|     `actix`      |     <img src="./icons/Actix-Dark.svg" width="48">     |
+|     `adonis`     |       <img src="./icons/Adonis.svg" width="48">       |
+|       `ae`       |    <img src="./icons/AfterEffects.svg" width="48">    |
+|    `aiscript`    |   <img src="./icons/AiScript-Dark.svg" width="48">    |
+|    `alpinejs`    |   <img src="./icons/AlpineJS-Dark.svg" width="48">    |
+|    `anaconda`    |   <img src="./icons/Anaconda-Dark.svg" width="48">    |
+| `androidstudio`  | <img src="./icons/AndroidStudio-Dark.svg" width="48"> |
+|    `angular`     |    <img src="./icons/Angular-Dark.svg" width="48">    |
+|    `ansible`     |      <img src="./icons/Ansible.svg" width="48">       |
+|     `apollo`     |       <img src="./icons/Apollo.svg" width="48">       |
+|     `apple`      |     <img src="./icons/Apple-Dark.svg" width="48">     |
 
 Con este gusanillo en el cuerpo, empecé a estudiar y a estudiar hasta sacarme el DAM Tecnico Superior en Desarrolo de Aplicaciones Multiplatagorma. 👨🏻‍💻 🌟
 
@@ -66,7 +63,7 @@ https://github.com/marwin1991/profile-technology-icons
 
 ![image](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
 
-![i| 10](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/manuelsaezcarmona?cardType=octocat&theme=buefy&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Plugins para mi readme que me gustan
 
